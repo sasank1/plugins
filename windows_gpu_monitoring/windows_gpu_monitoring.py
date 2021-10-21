@@ -1,3 +1,5 @@
+#!C:\Users\sri-pt3838\AppData\Local\Programs\Python\Python310
+
 import GPUtil
 import json
 
